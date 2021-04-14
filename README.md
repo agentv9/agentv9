@@ -19,5 +19,5 @@
 - **Moonlight Runners**: a game about being a moonshiner, making moonshine during the day and running it at night
 - **Vibes**: a music bot for discord with various extra features compared to other music bot solutions
 - **RobloxRanker**: a opensource discord bot for ranking users in a roblox group using commands in a discord server
-- **Mc player count**: a simple thing to show all online players for a specified server
+- **Mc player count**: a opensource thing to show all online players for a specified server, feel free to edit or improve it!
 
