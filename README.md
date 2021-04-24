@@ -18,3 +18,18 @@
 ## Current Projects:
 - **Moonlight Runners**: a game about being a moonshiner, making moonshine during the day and running it at night
 - **Vibes**: a music bot for discord with various extra features compared to other music bot solutions
+- **RobloxRanker**: a opensource discord bot for ranking users in a roblox group using commands in a discord server
+- **Mc player count**: a opensource thing to show all online players for a specified server, feel free to edit or improve it!
+
+### Github Stats
+
+<table>
+    <tr>
+        <td style="padding: 0; width=50%;">
+            <img src="https://github-readme-stats.vercel.app/api?username=agentv9&show_icons=true&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&bg_color=00000000&text_color=A3A3A3">
+        </td>
+        <td style="padding: 0; width=50%;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agentv9&show_icons=true&hide_border=true&icon_color=00000000&hide_title=true&count_private=true&bg_color=00000000&text_color=A3A3A3">
+        </td>
+    </tr>
+</table>
