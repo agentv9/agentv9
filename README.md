@@ -1,4 +1,4 @@
-### Hey there im Kason! - aka agentv9
+### Hey there im agent! - aka agentv9
 
 ## I'm a Highschool Student, Discord bot dev, and soon to be game dev
 
