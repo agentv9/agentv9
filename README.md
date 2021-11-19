@@ -16,7 +16,7 @@
 <br>
 
 ## Current Projects:
-- **Proto1**: a Multi-purpose discord with many features
+- **[Proto1](https://proto1.dev)**: a Multi-purpose discord with many features
 - **[Mc player count](https://github.com/agentv9/mc-player-count)**: a opensource thing to show all online players for a specified server, feel free to edit or improve it!
 
 ### Github Stats
