@@ -1,6 +1,6 @@
 ### Hey there im kason! - aka agentv9
 
-## I'm a Highschool Student, Discord bot dev, and soon to be game dev
+## I'm a Highschool Student, and Discord bot dev
 
 - 🌱 I’m currently learning HTML, CSS, and like a bunch of other things
 - 🥅 2021 Goals: Grow **Proto1** to 200 servers!
