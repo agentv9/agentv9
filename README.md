@@ -3,7 +3,7 @@
 ## I'm a Highschool Student, and Discord bot dev
 
 - 🌱 I’m currently learning HTML, CSS, and like a bunch of other things
-- 🥅 2021 Goals: Grow **Proto1** to 200 servers!
+- 🥅 2022 Goals: Expand **[Proto1's](https://proto1.dev)** Economy module!
 - ⚡ random fact: I love to play piano when im bored :D (so basically always)
 ---
 ### Languages and Tools i use
