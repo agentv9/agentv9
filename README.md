@@ -1,6 +1,6 @@
 ### Hey there im kason! - aka agentv9
 
-## I'm a Highschool Student, and Discord bot dev
+## I'm a Highschool Student, and Javascript developer
 
 - 🌱 I’m currently learning HTML, CSS, and like a bunch of other things
 - 🥅 2022 Goals: Expand **[Proto1's](https://proto1.dev)** Economy module, learn **vue**, and a new language or two!
