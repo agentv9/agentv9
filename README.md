@@ -17,6 +17,7 @@
 
 ## Current Projects:
 - **[Proto1](https://proto1.dev)**: a Multi-purpose discord with many features
+- **McL!nk**: A plugin, Websocket server, and Discord bot which allows you to connect your discord and minecraft server together
 
 ### Github Stats
 
