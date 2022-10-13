@@ -2,8 +2,8 @@
 
 ## I'm a Highschool Student, and Javascript developer
 
-- 🌱 I’m currently learning HTML, CSS, and like a bunch of other things
-- 🥅 2022 Goals: Expand **[Proto1's](https://proto1.dev)** Economy module, learn **vue**, and a new language or two!
+- 🌱 I’m currently learning C, TS, and vue
+- 🥅 2022 Goals: Develop my own shitty promgramming language
 - ⚡ random fact: I love to play piano when im bored :D (so basically always)
 ---
 ### Languages and Tools i use
