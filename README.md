@@ -21,7 +21,7 @@
 <br>
 
 ## Current Projects:
-- **[Quest Items](https://github.com/GoldenAgeTycoon/TGA-Mod)**: A Forge 1.12.2 mod used on a minecraft server i run 
+- **[Quest Items](https://github.com/GoldenAgeTycoon/Quest-Items)**: A Forge 1.12.2 mod used on a minecraft server i run 
 - **[BAEB](https://github.com/BAEB-Basic-A-Economy-Bot)**: A group of economy focused discord bots which will eventually have a large global economy and trading system
 
 ### Github Stats
