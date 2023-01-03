@@ -21,8 +21,8 @@
 <br>
 
 ## Current Projects:
-- **[Proto1](https://proto1.dev)**: a Multi-purpose discord with many features
-- **McL!nk**: A plugin, Websocket server, and Discord bot which allows you to connect your discord and minecraft server together
+- **[Quest Items](https://github.com/GoldenAgeTycoon/TGA-Mod)**: A Forge 1.12.2 mod used on a minecraft server i run 
+- **[BAEB](https://github.com/BAEB-Basic-A-Economy-Bot)**: A group of economy focused discord bots which will eventually have a large global economy and trading system
 
 ### Github Stats
 
