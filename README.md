@@ -1,4 +1,4 @@
-### Hey there im kason! - aka agentv9
+### Hey there im agentv9
 
 ## I'm a Highschool Student, and Javascript developer
 
