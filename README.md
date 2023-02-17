@@ -3,7 +3,7 @@
 ## I'm a Highschool Student, and Javascript developer
 
 - 🌱 I’m currently learning C, TS, and vue
-- 🥅 2022 Goals: Develop my own shitty promgramming language
+- 🥅 2023 Goals: Conquor the world
 - ⚡ random fact: I love to play piano when im bored :D (so basically always)
 ---
 ### Languages and Tools i use
