@@ -1,6 +1,6 @@
 ### Hey there im agentv9
 
-## I'm a Highschool Student, and Javascript developer
+## Just a random 18 year old self taught developer
 
 - 🌱 I’m currently learning C, TS, and vue
 - 🥅 2023 Goals: Conquor the world
