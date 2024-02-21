@@ -3,7 +3,7 @@
 ## Just a random 18 year old self taught developer
 
 - 🌱 I’m currently learning C, TS, and vue
-- 🥅 2023 Goals: Conquor the world
+- 🥅 2024 Goals: Conquor the world
 - ⚡ random fact: I love to play piano when im bored :D (so basically always)
 ---
 ### Languages and Tools i use
