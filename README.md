@@ -1,8 +1,8 @@
-### Hey there im agentv9
+### Hey there im Kason
 
-## Just a random 18 year old self taught developer
+## Just a random 19 year old self taught developer
 
-- 🌱 I’m currently learning C, TS, and vue
+- 🌱 I’m currently learning C
 - 🥅 2024 Goals: Conquor the world
 - ⚡ random fact: I love to play piano when im bored :D (so basically always)
 ---
@@ -21,8 +21,8 @@
 <br>
 
 ## Current Projects:
-- **[Quest Items](https://github.com/GoldenAgeTycoon/Quest-Items)**: A Forge 1.12.2 mod used on a minecraft server i run 
-- **[McLink](https://github.com/McL-nk)**: A easy to use minecraft server status and management bot
+- **[Better Bot Bureau]([https://github.com/GoldenAgeTycoon/Quest-Items](https://github.com/Better-Bot-Bureau))**: A freemium discord bot creation service allowing discord moderators to personalize the bots they use to moderate and manage their server!
+- **Imaginations**: A group of minecraft plugins to create a indepth country server with a detailed economy, government structures, and player opportunity.
 
 ### Github Stats
 
