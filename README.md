@@ -22,8 +22,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-<br>
-<br>
+
 
 ## Current Projects:
 - **[Better Bot Bureau]([https://github.com/GoldenAgeTycoon/Quest-Items](https://github.com/Better-Bot-Bureau))**: A freemium discord bot creation service allowing discord moderators to personalize the bots they use to moderate and manage their server!
