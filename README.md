@@ -24,8 +24,8 @@
 
 
 ## Current Projects:
-- **[Better Bot Bureau]([https://github.com/GoldenAgeTycoon/Quest-Items](https://github.com/Better-Bot-Bureau))**: A freemium discord bot creation service allowing discord moderators to personalize the bots they use to moderate and manage their server!
-- **Imaginations**: A group of minecraft plugins to create a indepth country server with a detailed economy, government structures, and player opportunity.
+- **[Modular-Discord-Bot-Template](https://github.com/agentv9/Modular-DIscord-Bot-Template)**: A extremely modular and easy to work on discord bot template im working based on discord.js and javascript
+- 
 
 ### Github Stats
 
