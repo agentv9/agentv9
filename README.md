@@ -25,7 +25,7 @@
 
 ## Current Projects:
 - **[Modular-Discord-Bot-Template](https://github.com/agentv9/Modular-DIscord-Bot-Template)**: A extremely modular and easy to work on discord bot template im working based on discord.js and javascript
-- 
+- **[Roster](https://github.com/agentv9/Roster)**: A learning experience project inspired by one of my friends college assignments to see how many different languages i could meet the assignment requirements in.
 
 ### Github Stats
 
