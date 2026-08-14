@@ -24,5 +24,5 @@ Currently working with Throttle Holdings to develop a Automotive centered social
 this list is out of date, i dont care enough to update it honestly
 
 ## Current Projects:
-- **[Modular-Discord-Bot-Template](https://github.com/agentv9/Modular-DIscord-Bot-Template)**: A extremely modular and easy to work on discord bot template im working based on discord.js and javascript
-this project is semi dead, i might update it im working on a economy bot based off it which will remain closed source, but ill commit any template updates i make while working.
+- **[Modular-Discord-Bot-Template](https://github.com/agentv9/Modular-DIscord-Bot-Template)**: A extremely modular and easy to work on discord bot template im working based on discord.js and javascript.
+- **[Contraband](https://github.com/agentv9/Contraband)**: A illicit substances **and** other mod im developing for minecraft based off a multiloader template, its a free time project so progress is slow.
