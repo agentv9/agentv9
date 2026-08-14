@@ -1,9 +1,9 @@
 ### Hey there im Kason
 
-## Just a random 19 year old self taught developer
+## 21 year old self taught developer
 
-- 🌱 I’m currently learning C
-- 🥅 2024 Goals: Conquor the world
+I make random stuff, none of which on this account is of any use. 
+Currently working with Throttle Holdings to develop a Automotive centered social media application called overdrive.
 ---
 ### Languages and Tools i use
 <p>
@@ -21,21 +21,8 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
+this list is out of date, i dont care enough to update it honestly
 
 ## Current Projects:
 - **[Modular-Discord-Bot-Template](https://github.com/agentv9/Modular-DIscord-Bot-Template)**: A extremely modular and easy to work on discord bot template im working based on discord.js and javascript
-- **[Roster](https://github.com/agentv9/Roster)**: A learning experience project inspired by one of my friends college assignments to see how many different languages i could meet the assignment requirements in.
-
-### Github Stats
-
-<table>
-    <tr>
-        <td style="padding: 0; width=50%;">
-            <img src="https://github-readme-stats.vercel.app/api?username=agentv9&show_icons=true&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&bg_color=00000000&text_color=A3A3A3">
-        </td>
-        <td style="padding: 0; width=50%;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agentv9&show_icons=true&hide_border=true&icon_color=00000000&hide_title=true&count_private=true&bg_color=00000000&text_color=A3A3A3">
-        </td>
-    </tr>
-</table>
+this project is semi dead, i might update it im working on a economy bot based off it which will remain closed source, but ill commit any template updates i make while working.
