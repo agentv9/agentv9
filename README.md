@@ -2,10 +2,10 @@
 
 ## 21 year old self taught developer
 
-I make random stuff, none of which on this account is of any use. 
-Currently working with Throttle Holdings to develop a Automotive centered social media application called overdrive.
----
+## I develop software and games in my free time as a hobby, i make all sorts of random things please checkout some of it below.
+
 ### Languages and Tools i use
+
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -19,10 +19,11 @@ Currently working with Throttle Holdings to develop a Automotive centered social
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
 </p>
 this list is out of date, i dont care enough to update it honestly
 
 ## Current Projects:
-- **[Modular-Discord-Bot-Template](https://github.com/agentv9/Modular-DIscord-Bot-Template)**: A extremely modular and easy to work on discord bot template im working based on discord.js and javascript.
+
+- **[Lux](https://github.com/agentv9/Lux-IDE)**: Lux is a custom IDE im developing to replace my current Vs Code workflow, i thought it would be a fun project to use as a way to learn rust, been pretty fun.
 - **[Contraband](https://github.com/agentv9/Contraband)**: A illicit substances **and** other mod im developing for minecraft based off a multiloader template, its a free time project so progress is slow.
